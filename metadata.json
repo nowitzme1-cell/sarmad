@@ -1,0 +1,5 @@
+{
+  "name": "Backend Bridge React Client",
+  "description": "A high-performance React application designed to interface with backend APIs on Railway and n8n automation workflows, featuring robust error handling and real-time state management.",
+  "requestFramePermissions": []
+}
